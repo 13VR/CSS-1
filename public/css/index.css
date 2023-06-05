@@ -181,7 +181,7 @@ a[href] {
 
 /* <!--   Завдання №10. Задайте першому рядку жовтий фон. -->
   <!--  Використовуйте селектор псевдоелементу першого рядка --> */
-.lesson-three-task-ten p::first-line {
+.lesson-three-task-ten::first-line {
   background: yellow;
 }
 
